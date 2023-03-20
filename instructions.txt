@@ -1,0 +1,3 @@
+1) put your script into the text
+2) text will now be converted into a python file, enjoy!!
+VeryVeryCool123#0686
